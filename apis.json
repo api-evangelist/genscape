@@ -1,0 +1,94 @@
+{
+    "name": "Genscape",
+    "description": "Genscape provides energy market data and intelligence across the oil, power, natural gas and LNG, agriculture, petrochemical and NGLs, maritime, and renewables markets",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28710-www-genscape-com.jpg",
+    "tags": [
+        "api not found",
+        "gas",
+        "have api",
+        "oil"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/genscape\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Genscape",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28710-www-genscape-com.jpg",
+            "humanURL": "https:\/\/www.genscape.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/genscape-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/genscape-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.genscape.com\/solutions\/power\/north-america-market-forecasting\/nodal-market-insights%E2%84%A2-platform#tabs-Overview_panel"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/genscape"
+        },
+        {
+            "type": "Email",
+            "url": "info@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "customercare@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "easements@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales-europe@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "customercare-europe@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "info-europe@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "nsegal@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@genscape.com"
+        },
+        {
+            "type": "Email",
+            "url": "clientservices-europe@genscape.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/genscape"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.genscape.com"
+        }
+    ]
+}
