@@ -8,8 +8,8 @@
         "have api",
         "oil"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/genscape\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -23,17 +23,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/genscape-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/genscape\/master\/genscape-openapi.json"
                 },
                 {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/genscape-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/genscape\/master\/genscape-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Blog",
             "url": "https:\/\/www.genscape.com\/solutions\/power\/north-america-market-forecasting\/nodal-market-insights%E2%84%A2-platform#tabs-Overview_panel"
